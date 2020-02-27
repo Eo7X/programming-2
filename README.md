@@ -19,5 +19,4 @@ Work from my Programming 2 class, written using NetBeans in Java.
 - Text Analyzer, Graphical UI JavaFX Edition: `AnalysisEO`
 
 **Final Project**
-On my school's Robotics repository [here][1].
-[1]: https://github.com/EastsidePreparatorySchool/SkyStone/tree/eoreizy/programming2 "EastsidePreparatorySchool/Skystone at eoreizy/programming2"
+On my school's Robotics repository [here](https://github.com/EastsidePreparatorySchool/SkyStone/tree/eoreizy/programming2 "EastsidePreparatorySchool/Skystone at eoreizy/programming2").
