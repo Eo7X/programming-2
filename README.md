@@ -6,7 +6,6 @@ Work from my Programming 2 class, written using NetBeans in Java.
 - Beowulf OG: `Beowulf`
 - Object Practice: `objects`
 - JavaFX Practice: `JavaFX1`
-- Tron (credit to [@eastsidepreparatoryschool](https://github.com/EastsidePreparatorySchool/TRON)): `TRON_M`
 - Food/More Object Practice: `CW_Food`
 
 **Homework**
