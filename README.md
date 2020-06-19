@@ -2,7 +2,7 @@
 Work from my Programming 2 class, written using NetBeans in Java.  
   
 **Classwork**
-- Bubblesort: [bubblesort](/tree/master/bubblesort)
+- Bubblesort: [bubblesort](/bubblesort)
 - Beowulf OG: `Beowulf`
 - Object Practice: `objects`
 - JavaFX Practice: `JavaFX1`
