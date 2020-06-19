@@ -2,9 +2,9 @@
 Work from my Programming 2 class, written using NetBeans in Java.  
   
 **Classwork**
-- Bubblesort: `[bubblesort]`(/bubblesort)
-- Beowulf Word Analysis: `[Beowulf]`(/Beowulf)
-- Object Practice: `[objects]`(/objects)
+- Bubblesort: [`bubblesort`](/bubblesort)
+- Beowulf Word Analysis: [`Beowulf`](/Beowulf)
+- Object-Oriented Programming Practice: [`objects`](/objects)
 - JavaFX Practice: `JavaFX1`
 - Food/More Object Practice: `CW_Food`
 
