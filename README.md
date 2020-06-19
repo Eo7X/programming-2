@@ -5,7 +5,7 @@ Work from my Programming 2 class, written using NetBeans in Java.
 - Bubblesort: [`bubblesort`](/bubblesort)
 - Beowulf Word Analysis: [`Beowulf`](/Beowulf)
 - Object-Oriented Programming Practice: [`objects`](/objects)
-- JavaFX Practice: [`/JavaFX1`]
+- JavaFX Practice: [/JavaFX1]
 - Food/More Object Practice: [`/CW_Food`]
 
 **Homework**
